@@ -29,7 +29,7 @@
 #include "KeyFrameDatabase.h"
 #include "ImuTypes.h"
 
-#include "CameraModels/GeometricCamera.h"
+#include "GeometricCamera.h"
 
 #include <mutex>
 
